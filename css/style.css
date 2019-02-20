@@ -24,3 +24,7 @@ h1 {
   font-size: 5em;
   color: rgb(153,173,166)	;
 }
+
+a > img:hover {
+  
+}
