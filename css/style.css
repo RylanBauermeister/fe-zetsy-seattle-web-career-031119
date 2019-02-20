@@ -19,6 +19,11 @@ body {
 
 /* Write all remaining styles here */
 
+p {
+  font-size: 1em;
+  
+}
+
 h1 {
   font-family: "Baskerville", serif;
   font-size: 5em;
