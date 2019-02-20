@@ -26,7 +26,7 @@ h1 {
 }
 
 a > img {
-  border: 2px solid grey;
+  border: 2px solid #ccc;
 }
 
 a > img:hover {
