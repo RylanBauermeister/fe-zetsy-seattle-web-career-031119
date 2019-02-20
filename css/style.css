@@ -25,6 +25,10 @@ h1 {
   color: rgb(153,173,166)	;
 }
 
+a > img {
+  border: 2px solid grey;
+}
+
 a > img:hover {
   border: 10px solid black;
 }
