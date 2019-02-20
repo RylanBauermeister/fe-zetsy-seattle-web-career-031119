@@ -25,6 +25,10 @@ p {
   color: #555;
 }
 
+h2 {
+  font-size: 2em;
+}
+
 h1 a{
   text-decoration: none;
   font-size: 2.5em;
