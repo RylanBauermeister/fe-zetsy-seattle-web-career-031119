@@ -25,6 +25,7 @@ p {
 }
 
 h1 a{
+  width: 100%;
   font-size: 2.5em;
   font-family: "Baskerville", serif;
   color: rgb(153,173,166)	;
