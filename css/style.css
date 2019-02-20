@@ -18,3 +18,52 @@ body {
 }
 
 /* Write all remaining styles here */
+
+p {
+  font-size: 1em;
+  margin: 0 0 20px 0;
+  color: #555;
+}
+
+p a {
+  text-decoration: none;
+  color: #1783bb;
+}
+
+p a:hover {
+  text-decoration: underline;
+}
+
+h2 {
+  font-size: 2em;
+  color: rgb(111,127,122);
+}
+
+h1 a{
+  text-decoration: none;
+  font-size: 2.5em;
+  font-family: "Baskerville", serif;
+  color: rgb(153,173,166)	;
+}
+
+h1 a:hover{
+  color: rgb(111,127,122);
+}
+
+a > img {
+  border: 5px solid #ccc;
+}
+
+a > img:hover {
+  border-color: rgb(111,127,122);
+}
+
+#main-image {
+  border: 5px solid rgb(152,173,166);
+}
+
+#copyright {
+  text-align: right;
+  color: #555;
+  font-size: .8em;
+}
