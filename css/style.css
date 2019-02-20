@@ -43,6 +43,10 @@ a > img:hover {
   border-color: rgb(111,127,122);
 }
 
+#main-image {
+  color: rgb(152,173,166);
+}
+
 #copyright {
   text-align: right;
   color: #555;
