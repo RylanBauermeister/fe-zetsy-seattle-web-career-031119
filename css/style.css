@@ -30,6 +30,10 @@ p a {
   color: blue;
 }
 
+p a:hover {
+  text-decoration: underline;
+}
+
 h2 {
   font-size: 2em;
   color: rgb(111,127,122);
