@@ -30,5 +30,5 @@ a > img {
 }
 
 a > img:hover {
-  border-color: black;
+  border-color: rgb(111,127,122);
 }
