@@ -25,6 +25,10 @@ p {
   color: #555;
 }
 
+p a {
+  text-decoration: none;
+}
+
 h2 {
   font-size: 2em;
   color: rgb(111,127,122);
